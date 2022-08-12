@@ -220,6 +220,7 @@ footer p{
 .profile-main-container img{
     width: 320px;
     margin-right: 30px;
+    border-radius: 50px;
 }
 .profile-main-container .profile-container{
     display: flex;
